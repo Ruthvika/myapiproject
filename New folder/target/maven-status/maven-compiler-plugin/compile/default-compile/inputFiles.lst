@@ -1,0 +1,9 @@
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\ApiApplication.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\controller\HelloController.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\service\AlpacaClient.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\config\AlpacaConfig.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\controller\TradingBotController.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\model\TradeSignal.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\strategy\TradingStrategy.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\service\AlpacaTradingBot.java
+C:\Users\sreek\github\myapiproject\New folder\src\main\java\com\example\api\strategy\MovingAverageCrossoverStrategy.java

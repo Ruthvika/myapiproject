@@ -1,0 +1,11 @@
+com\example\api\ApiApplication.class
+com\example\api\config\AlpacaConfig.class
+com\example\api\model\TradeSignal$SignalType.class
+com\example\api\strategy\MovingAverageCrossoverStrategy.class
+com\example\api\strategy\TradingStrategy.class
+com\example\api\service\AlpacaTradingBot.class
+com\example\api\service\AlpacaClient.class
+com\example\api\controller\HelloController.class
+com\example\api\controller\TradingBotController.class
+com\example\api\model\TradeSignal.class
+com\example\api\service\AlpacaTradingBot$1.class
